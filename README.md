@@ -1,28 +1,28 @@
-## Hi there 👋
+## Hey there! 👋
 
-### 👨‍💻 About Me
+I'm Bruce, a builder and technology specialist based in San Diego, CA.
 
-* I'm a **Front-End Developer** with a passion for **CSS** and building responsive web experiences.
-* My focus is on writing clean, efficient, and well-documented code.
-* Currently diving deep into modern JavaScript frameworks and performance optimization.
+I design, deploy, and maintain robust infrastructure and custom technical solutions.
 
-### 🛠️ Tech Stack & Tools
+If an idea involves virtualization, network architecture, or custom fabrication, chances are I'll build it.
 
-* **Languages:** HTML5, CSS3, JavaScript (ES6+)
-* **Frameworks/Libraries:** React, Tailwind CSS, SASS/LESS
-* **Tools:** Git, GitHub, VS Code, npm
+My main tech stack centers around server management, virtualization, and systems integration. My favorite tools are **Proxmox**, **Linux**, and **Dewalt** for the physical side.
 
-### 🚀 Projects
+I've got a selection of pinned projects, but one of my key focuses is on homelab architecture.
 
-* **[Portfolio Project (wakandaboy100)](https://github.com/whosebruce/wakandaboy100):** A responsive, multi-page web portfolio showcasing my front-end skills.
-* **[Project 2 Name]:** *Brief description of another project, e.g., A utility library for CSS animations.*
+I've learned that a solid foundation—whether in code or construction—is the key to long-lasting quality.
 
-### 🌱 Currently Learning
+### 🛠️ Systems & Tech Specs:
 
-* TypeScript and Node.js fundamentals.
+* **Virtualization:** Proxmox VE (running on Dell Precision T7820)
+* **Hardware:** Dual Intel Xeon Gold 6130, 128GB RAM, NVIDIA RTX 3090 Ti.
+* **Networking:** Focusing on robust, low-latency connectivity.
+* **Programming:** Basic electrical and carpentry logic for custom projects.
 
-### 📫 Let's Connect
+### Fun Facts:
 
-* **Portfolio:** [Your Portfolio Link]
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Email Address]
+* I specialize in custom **furniture building** and residential additions.
+* I prioritize **durability** and **cost-effectiveness** in all my projects.
+* I served 4 years in the U.S. Marine Corps (0431 - Logistics).
+
+---
