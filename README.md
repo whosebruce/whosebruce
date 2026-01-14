@@ -15,7 +15,7 @@ I've learned that a solid foundation—whether in code or construction—is the 
 ### 🛠️ Systems & Tech Specs:
 
 * **Virtualization:** Proxmox VE (running on Dell Precision T7820)
-* **Hardware:** Dual Intel Xeon Gold 6130, 128GB RAM, NVIDIA RTX 3090 Ti.
+* **Hardware:** Dual Intel Xeon Gold 6130, 256GB RAM, NVIDIA RTX 3090 Ti.
 * **Networking:** Focusing on robust, low-latency connectivity.
 * **Programming:** Basic electrical and carpentry logic for custom projects.
 
