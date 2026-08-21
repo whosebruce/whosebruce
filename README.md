@@ -43,9 +43,16 @@ My primary virtualization platform is Proxmox VE on a Dell Precision T7820 with 
 
 ## Background
 
-I served four years in the U.S. Marine Corps as a 0431 Logistics/Embarkation Specialist. That experience still shapes how I approach technical work: understand the mission, account for constraints, build for failure, and leave the system ready for the next person.
+My military background started with four years in the U.S. Marine Corps as a 0431 Logistics/Embarkation Specialist. Since 2019, I have served in the Army National Guard as a 25B Information Technology Specialist. I am now transitioning to 35T, Military Intelligence Systems Maintainer/Integrator, a role focused on maintaining and integrating the technical systems that support military intelligence and S2 operations.
 
-Away from the rack, I build custom furniture and work on residential additions. Code, infrastructure, and construction reward the same habit...get the foundation right.
+Those roles shape how I approach technical work: understand the mission, account for constraints, build for failure, and leave the system ready for the next person.
+
+## Rules I work by
+
+1. **Nobody knows everything. Some people just have more reps.** Keep learning and keep building.
+2. **Networks are power.** Understand how people, systems, and resources connect, and you can make things move.
+3. **Too much of anything is bad.** Balance keeps strengths from becoming liabilities.
+4. **Bonus: Luck is the right spot at the right time.** Keep showing up and taking informed shots until the timing lands.
 
 ## Connect
 
