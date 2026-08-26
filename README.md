@@ -55,7 +55,7 @@ Those roles shape how I approach technical work: understand the mission, account
 1. **Nobody knows everything. Some people just have more reps.** Keep learning and keep building.
 2. **Networks are power.** Understand how people, systems, and resources connect, and you can make things move.
 3. **Too much of anything is bad.** Balance keeps strengths from becoming liabilities.
-4. **Bonus: Luck is the right spot at the right time.** Keep showing up and taking informed shots until the timing lands.
+**Bonus: Luck is the right spot at the right time.** Keep showing up and taking informed shots until the timing lands.
 
 ## Connect
 
