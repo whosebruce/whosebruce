@@ -23,6 +23,7 @@ I use AI-assisted development heavily, but generated code is only part of the jo
 
 | Project | What it does |
 | --- | --- |
+| [Homelab Portfolio](https://github.com/whosebruce/homelab-portfolio) | A sanitized view of the infrastructure, security boundaries, operations, and role-separated AI-agent systems I run. |
 | [Presence Stack](https://github.com/whosebruce/presence-stack) | A privacy-first, agent-readable harness for building a personal AI presence stack. |
 | [Local-First AI Receptionist](https://github.com/whosebruce/local-first-ai-receptionist) | A tiered, tool-isolated AI receptionist with owner-controlled trust boundaries and offline security verification. |
 | [Hermes Discord Admin Pack](https://github.com/whosebruce/hermes-discord-admin-pack) | A sanitized patch and setup guide for extending Discord administration through Hermes Agent. |
@@ -40,6 +41,8 @@ I use AI-assisted development heavily, but generated code is only part of the jo
 ## Home lab
 
 My primary virtualization platform is Proxmox VE on a Dell Precision T7820 with dual Intel Xeon Gold 6130 processors, 256 GB of RAM, and an NVIDIA RTX 3090 Ti. The lab gives me a place to deploy services, test network and recovery designs, and learn by operating real systems.
+
+The public [Homelab Portfolio](https://github.com/whosebruce/homelab-portfolio) documents the engineering layer: segmented networks, virtualized compute, centralized storage, local and hosted AI workloads, role-separated Hermes agents, staged updates, monitoring, and recovery. It is deliberately sanitized so the portfolio demonstrates operating judgment without publishing live infrastructure details.
 
 ## Background
 
