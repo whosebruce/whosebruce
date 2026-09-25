@@ -37,7 +37,6 @@ I use AI-assisted development heavily, but generated code is only part of the jo
 | --- | --- |
 | [islanddelicacy.com](https://islanddelicacy.com) ([repo](https://github.com/ongeramohammed/island-delicacy-website)) | Island Delicacy, a preorder-only Jamaican food business in San Diego: weekly menu, next-day preorder flow, and catering inquiries. |
 | [kitsapmobilebrakes.com](https://kitsapmobilebrakes.com) ([repo](https://github.com/whosebruce/kitsap-mobile-brakes-website)) | Kitsap Mobile Brakes & Oil: services, pricing, and contact pages on GitHub Pages. |
-| [simplemedicalstaffing.com](https://simplemedicalstaffing.com) ([repo](https://github.com/whosebruce/simple-medical-staffing-website)) | Simple Medical Staffing: the company's public marketing site. |
 | [wakandaboy100.com](https://wakandaboy100.com) ([repo](https://github.com/whosebruce/wakandaboy100)) | WAKANDABOY100: artist portfolio with videos, music links, booking, and merch. |
 
 ## Working toolkit
