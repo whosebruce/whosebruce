@@ -24,11 +24,20 @@ I use AI-assisted development heavily, but generated code is only part of the jo
 | Project | What it does |
 | --- | --- |
 | [Homelab Portfolio](https://github.com/whosebruce/homelab-portfolio) | A sanitized view of the infrastructure, security boundaries, operations, and role-separated AI-agent systems I run. |
-| [Presence Stack](https://github.com/whosebruce/presence-stack) | A privacy-first, agent-readable harness for building a personal AI presence stack. |
+| [Presence Stack](https://github.com/whosebruce/presence-stack) | A privacy-first, agent-readable harness for turning a fresh Hermes Agent into an owner-controlled digital presence. |
 | [Local-First AI Receptionist](https://github.com/whosebruce/local-first-ai-receptionist) | A tiered, tool-isolated AI receptionist with owner-controlled trust boundaries and offline security verification. |
 | [Hermes Discord Admin Pack](https://github.com/whosebruce/hermes-discord-admin-pack) | A sanitized patch and setup guide for extending Discord administration through Hermes Agent. |
 | [AI Agent SMS CRM Extractor](https://github.com/whosebruce/ai-agent-sms-crm-extractor) | A local-first tool that converts contacts and Android SMS backups into structured CRM data for safe agent workflows. |
+| [Client Intel Dashboard](https://github.com/whosebruce/client-intel-dashboard) | A local-first dashboard that turns CRM spreadsheets and SMS exports into a client map and follow-up queue for a small business. |
 | [Bruce Works Website](https://github.com/whosebruce/bruceworks-website) | The TypeScript website for [Bruce Works LLC](https://bruceworks.net). |
+
+### Client websites
+
+| Site | Built for |
+| --- | --- |
+| [islanddelicacy.com](https://islanddelicacy.com) ([repo](https://github.com/ongeramohammed/island-delicacy-website)) | Island Delicacy, a preorder-only Jamaican food business in San Diego: weekly menu, next-day preorder flow, and catering inquiries. |
+| [kitsapmobilebrakes.com](https://kitsapmobilebrakes.com) ([repo](https://github.com/whosebruce/kitsap-mobile-brakes-website)) | Kitsap Mobile Brakes & Oil: services, pricing, and contact pages on GitHub Pages. |
+| [wakandaboy100.com](https://wakandaboy100.com) ([repo](https://github.com/whosebruce/wakandaboy100)) | WAKANDABOY100: artist portfolio with videos, music links, booking, and merch. |
 
 ## Working toolkit
 
@@ -60,3 +69,5 @@ Those roles shape how I approach technical work: understand the mission, account
 ## Connect
 
 For roles, contracts, or technical collaborations, find me at [linktr.ee/whosebruce](https://linktr.ee/whosebruce) or learn more about my work at [bruceworks.net](https://bruceworks.net).
+
+Bruce Works is also on YouTube: [youtube.com/@bruceworks](https://www.youtube.com/@bruceworks).
