@@ -8,7 +8,7 @@ I run [Bruce Works LLC](https://bruceworks.net).
 
 <!-- Add one line at a time. Newest on top. -->
 
-- Nov 2026: Free homepage previews for local businesses with no website. [See how it works](https://bruceworks.net/pricing/#websites).
+- Nov 2026: Free homepage previews for local businesses with no website. [See how it works](https://bruceworks.net/websites/).
 
 ## Local business?
 
@@ -18,7 +18,7 @@ No website yet? I build your homepage first, with your business on it, and send 
 - **Custom website, $1,500.** Up to 5 pages. Half to start, half when you're happy.
 - **Already have a site?** The free Local Presence Report shows what can stop a new customer from reaching you. The $450 Fix Sprint fixes it.
 
-[See the details](https://bruceworks.net/pricing/#websites) · [Book a free call](https://bruceworks.net/book/?event=fit) · (866) 829-6757
+[See the details](https://bruceworks.net/websites/) · [Book a free call](https://bruceworks.net/book/?event=fit) · (866) 829-6757
 
 ## Agency or prime contractor?
 
@@ -38,10 +38,11 @@ Delivered work, live now.
 
 ## Tools and systems
 
-Public tools and sanitized examples. These aren't client deliverables.
+My own products, public tools and sanitized examples. These aren't client deliverables.
 
 | Project | What it does |
 | --- | --- |
+| [Redlyn](https://redlyn.app) ([overview](https://github.com/whosebruce/redlyn-showcase)) | My own iPhone mileage and car app with its own server. In TestFlight, coming to the App Store. |
 | [Client Intel Dashboard](https://github.com/whosebruce/client-intel-dashboard) | Turns CRM spreadsheets and SMS exports into a client map and follow-up queue for a small business. |
 | [Local-First AI Receptionist](https://github.com/whosebruce/local-first-ai-receptionist) | A tiered, tool-isolated AI receptionist with owner-controlled trust boundaries and offline security verification. |
 | [AI Agent SMS CRM Extractor](https://github.com/whosebruce/ai-agent-sms-crm-extractor) | Converts contacts and Android SMS backups into structured CRM data for safe agent workflows. |
